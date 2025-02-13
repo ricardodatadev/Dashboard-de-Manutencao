@@ -6,4 +6,4 @@ A análise visual inclui uma Curva S, que permite acompanhar o progresso acumula
 
 Com essa abordagem, o dashboard fornece uma visão abrangente para tomada de decisões mais assertivas, permitindo ajustes estratégicos para melhorar a eficiência operacional e o controle de custos.
 
-![Minha Imagem](PAINEL.jpg)
+![Minha Imagem](Dashboard.jpg)
