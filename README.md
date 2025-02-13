@@ -12,4 +12,5 @@ Com essa abordagem, o dashboard fornece uma visão abrangente para tomada de dec
 
 A Curva S é essencial para acompanhar o progresso de um projeto ao longo do tempo, comparando o planejado com o executado. Ela permite identificar atrasos, antecipações e desvios no cronograma, auxiliando na tomada de decisões estratégicas para manter a aderência ao planejamento e otimizar recursos.
 
-![Minha Imagem](CURVA S.jpg)
+![Minha Imagem](CURVA.jpg)
+
